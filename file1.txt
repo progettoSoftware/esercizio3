@@ -1,1 +1,3 @@
-prima riga aggiunta al file
+prima riga aggiunta al file dall'utente progettoSoftware.
+seconda riga aggiunta dall'utente Sergio Morstabilini.
+
